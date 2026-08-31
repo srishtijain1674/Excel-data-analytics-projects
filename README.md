@@ -27,17 +27,15 @@ Built targeted summary reports using Pivot Tables and formulas:
 Designed a user-friendly dashboard to summarize core business metrics:
 - **KPI Cards:** Displayed high-level metrics for **Total Sales ($)** and **Total Products Sold**.
 - **Charts:**
-  - *Monthly Sales Trend* (Line/Area Chart)
-  - *Sales by Store / Location* (Bar/Column Chart)
-  - *Payment Method Breakdown* (Pie/Donut or Column Chart)
-  - *Sales by Product Category* (Bar Chart)
+  - *Monthly Sales Trend* (Line Chart)
+  - *Sales by Store / Location* (Column Chart)
+  - *Payment Method Breakdown* (Column Chart)
+  - *Sales by Product Category* (Column Chart)
 - **Interactive Controls:** Integrated a **Timeline** control and **Slicers** (Payment Type, Product, Location/Region) for dynamic filtering across all charts.
 
 ---
 
 ### 📷 Dashboard Preview
-*(Replace the file path below with the exact name of your uploaded dashboard image)*
-
 ![Retail Store Sales Dashboard](ss7.png)
 
 ---
